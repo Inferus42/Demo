@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+
+<ul id="group">
+    @foreach (var item in (IEnumerable<WebApplication5.Models.Group>)ViewData["group"])
+    {
+      <li>  @Html.ActionLink(item.Name, "Index", new { id = item.Id })</li>
+
+    }
+</ul>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@{ Html.RenderPartial("_DataList");}

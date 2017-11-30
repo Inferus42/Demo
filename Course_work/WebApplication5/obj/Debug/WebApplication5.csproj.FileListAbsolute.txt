@@ -1,0 +1,404 @@
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ApplicationInsights.config
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Owin.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\WebGrease.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.Helpers.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.Mvc.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.Optimization.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.Razor.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\EntityFramework.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+c:\users\maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\Maxim\documents\visual studio 2015\Projects\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ApplicationInsights.config
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\WebApplication5.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\EntityFramework.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Owin.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.WebPages.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\WebGrease.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.WebPages.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\EntityFramework.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.Razor.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\EntityFramework.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\INFERUS\Downloads\LAB7\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ApplicationInsights.config
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\WebApplication5.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\EntityFramework.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Owin.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.WebPages.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\WebGrease.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.WebPages.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\EntityFramework.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.Helpers.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.Mvc.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.Optimization.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.Razor.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Deployment.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Razor.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\EntityFramework.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\EntityFramework.SqlServer.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+I:\Лабы\2 курс 4 семестр\Технологии программирования\ИСТ115-ТП-#07-Ростовцев\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\obj\Debug\WebApplication5.csprojResolveAssemblyReference.cache
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\obj\Debug\WebApplication5.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\obj\Debug\WebApplication5.pdb
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ApplicationInsights.config
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\csc.exe
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\vbc.exe
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\WebApplication5.dll.config
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\WebApplication5.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\WebApplication5.pdb
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Antlr3.Runtime.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\EntityFramework.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Newtonsoft.Json.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Owin.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Helpers.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Mvc.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Optimization.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Razor.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.WebPages.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\WebGrease.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.Web.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.ApplicationInsights.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Helpers.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Mvc.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Optimization.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.Razor.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.WebPages.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.WebPages.Deployment.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\System.Web.WebPages.Razor.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Antlr3.Runtime.pdb
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Newtonsoft.Json.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\EntityFramework.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\EntityFramework.SqlServer.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.Razor.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\EntityFramework.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\INFERUS\Desktop\WebApplication5\WebApplication5\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll

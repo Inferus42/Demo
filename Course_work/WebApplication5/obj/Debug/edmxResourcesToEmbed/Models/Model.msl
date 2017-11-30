@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище SeaPortModelContainer" CdmEntityContainer="SeaPortEntities">
+    <EntitySetMapping Name="Group">
+      <EntityTypeMapping TypeName="SeaPortModel.Group">
+        <MappingFragment StoreEntitySet="Group">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ship">
+      <EntityTypeMapping TypeName="SeaPortModel.Ship">
+        <MappingFragment StoreEntitySet="Ship">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="NameShip" ColumnName="NameShip" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+          <ScalarProperty Name="Width" ColumnName="Width" />
+          <ScalarProperty Name="Height" ColumnName="Height" />
+          <ScalarProperty Name="Capacity" ColumnName="Capacity" />
+          <ScalarProperty Name="Info" ColumnName="Info" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="GroupID" ColumnName="GroupID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
